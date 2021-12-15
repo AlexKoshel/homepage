@@ -261,3 +261,10 @@ body {
 .additional-info__languages-item {
     color: var(--secondary-text-color);
 }
+
+.company_logo{
+    height: 56px;
+    width: 56px;
+    float: left;
+    position: relative;
+}
